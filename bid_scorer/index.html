@@ -1,0 +1,486 @@
+<html lang="en">
+<head>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" media="screen, print">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" type="text/css" href="/css/syntax2.css" media="screen, print">
+  <link rel="stylesheet" type="text/css" href="/css/extras.css" media="screen, print">
+
+  <style type=text/css media=print>
+    .no-print {
+      display:  none;
+    }
+
+    html, body {
+      height: auto;
+    }
+    </style>
+
+</head>
+
+  <meta name="keywords" content="Bill, William, Wolf, Cards, Game, Pepper,
+  Euchre, Cards, Playing Cards, Pepper Scorer"/>
+  <title>Bid Scorer in the Cloud</title>
+</head>
+<body id="scorer-body">
+  <div class="splash-scorer bckgrd">
+    <h1><b>Bid Scorer in the Cloud</b></h1>
+  </div>
+  <div class="container full-height">
+    <div class="row buffer d-none d-sm-block"></div>
+    <!-- Landing: for getting player names, becomes hidden when button is pushed -->
+
+    <div id='setup'>
+      <div class='row'>
+        <div class='col vcenter'>
+          <h2>Who's Playing?</h2>
+        </div>
+      </div>
+      <form>
+        <div class="form-group row vcenter">
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="num_players">Number of Players</label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input type="number" class="form-control form-control-lg " id="num_players" aria-describedby="number-of-players-help" value=5>
+            <small id="number-of-players-help" class="form-text text-muted">You should have at least two players (if you're lame), and up to 26 (if you want a very short game).</small>
+          </div>
+        </div>
+        <hr>
+        <div class="form-group row" id='player-1'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-1-name">
+            First Dealer
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-1-name"
+            placeholder="Player 1">
+          </div>
+        </div>
+        <div class="form-group row" id='player-2'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-2-name">
+            Player 2
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-2-name"
+            placeholder="Player 2">
+          </div>
+        </div>
+        <div class="form-group row" id='player-3'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-3-name">
+            Player 3
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-3-name"
+            placeholder="Player 3">
+          </div>
+        </div>
+        <div class="form-group row" id='player-4'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-4-name">
+            Player 4
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-4-name"
+            placeholder="Player 4">
+          </div>
+        </div>
+        <div class="form-group row" id='player-5'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-5-name">
+            Player 5
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-5-name"
+            placeholder="Player 5">
+          </div>
+        </div>
+        <div class="form-group row" id='player-6'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-6-name">
+            Player 6
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-6-name"
+            placeholder="Player 6">
+          </div>
+        </div>
+        <div class="form-group row" id='player-7'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-7-name">
+            Player 7
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-7-name"
+            placeholder="Player 7">
+          </div>
+        </div>
+        <div class="form-group row" id='player-8'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-8-name">
+            Player 8
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-8-name"
+            placeholder="Player 8">
+          </div>
+        </div>
+        <div class="form-group row" id='player-9'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-9-name">
+            Player 9
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-9-name"
+            placeholder="Player 9">
+          </div>
+        </div>
+        <div class="form-group row" id='player-10'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-10-name">
+            Player 10
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-10-name"
+            placeholder="Player 10">
+          </div>
+        </div>
+        <div class="form-group row" id='player-11'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-11-name">
+            Player 11
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-11-name"
+            placeholder="Player 11">
+          </div>
+        </div>
+        <div class="form-group row" id='player-12'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-12-name">
+            Player 12
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-12-name"
+            placeholder="Player 12">
+          </div>
+        </div>
+        <div class="form-group row" id='player-13'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-13-name">
+            Player 13
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-13-name"
+            placeholder="Player 13">
+          </div>
+        </div>
+        <div class="form-group row" id='player-14'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-14-name">
+            Player 14
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-14-name"
+            placeholder="Player 14">
+          </div>
+        </div>
+        <div class="form-group row" id='player-15'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-15-name">
+            Player 15
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-15-name"
+            placeholder="Player 15">
+          </div>
+        </div>
+        <div class="form-group row" id='player-16'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-16-name">
+            Player 16
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-16-name"
+            placeholder="Player 16">
+          </div>
+        </div>
+        <div class="form-group row" id='player-17'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-17-name">
+            Player 17
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-17-name"
+            placeholder="Player 17">
+          </div>
+        </div>
+        <div class="form-group row" id='player-18'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-18-name">
+            Player 18
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-18-name"
+            placeholder="Player 18">
+          </div>
+        </div>
+        <div class="form-group row" id='player-19'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-19-name">
+            Player 19
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-19-name"
+            placeholder="Player 19">
+          </div>
+        </div>
+        <div class="form-group row" id='player-20'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-20-name">
+            Player 20
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-20-name"
+            placeholder="Player 20">
+          </div>
+        </div>
+        <div class="form-group row" id='player-21'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-21-name">
+            Player 21
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-21-name"
+            placeholder="Player 21">
+          </div>
+        </div>
+        <div class="form-group row" id='player-22'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-22-name">
+            Player 22
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-22-name"
+            placeholder="Player 22">
+          </div>
+        </div>
+        <div class="form-group row" id='player-23'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-23-name">
+            Player 23
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-23-name"
+            placeholder="Player 23">
+          </div>
+        </div>
+        <div class="form-group row" id='player-24'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-24-name">
+            Player 24
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-24-name"
+            placeholder="Player 24">
+          </div>
+        </div>
+        <div class="form-group row" id='player-25'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-25-name">
+            Player 25
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-25-name"
+            placeholder="Player 25">
+          </div>
+        </div>
+        <div class="form-group row" id='player-26'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="player-26-name">
+            Player 26
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8">
+            <input class="form-control form-control-lg player-name" type="text" id="player-26-name"
+            placeholder="Player 26">
+          </div>
+        </div>
+        <hr>
+        <div class="form-group row" id='half-game'>
+          <label class="col-lg-2 col-md-3 col-sm-4 col-form-label col-form-label-lg" for="half_game">
+            Half Game?
+          </label>
+          <div class="col-lg-10 col-md-9 col-sm-8 vcenter">
+            <div class='form-check'>
+              <input class="form-check-input" type="checkbox" id="half_game" aria-describedby="half-game-help">
+              <small id="half-game-help" class="form-text text-muted">Do you want to play "up to" a certain amount of cards (half game), or "up and down" (full game)</small>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div class="form-group row">
+          <label class="col-lg-2 col-md-3 col-sm-4 col-12 col-form-label col-form-label-lg" for="max_cards_slider">Max Cards</label>
+          <div class="col-lg-9 col-md-7 col-sm-6 col-10 vcenter">
+            <input type="range" class="form-control-range" id="max_cards_slider" min="2" max="10" value="7" aria-described-by="number-of-hands-help">
+            <small id="number-of-hands-help" class="form-text text-muted">Maximum number of cards in a player's hand, regardless of whether you're playing a half game or a full game.</small>
+          </div>
+          <div class='col-lg-1 col-md-2 col-sm-2 col-2 vcenter text-center'>
+            <h1 class='text-center border p-2' id="max_cards">7</h1>
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-lg-2 col-md-3 col-sm-4 vcenter">
+            <h2>Summary</h2>
+          </div>
+          <div class="col-lg-10 col-md-9 col-sm-8 vcenter">
+            <p>
+              Play a game with <span id='summary-players'>5</span> players from one card per hand up to <span class='summary-max-cards'>7</span> cards per hand<span id='summary-full-game'>, and then from <span class='summary-max-cards'>7</span> cards per hand back down to 1 card per hand</span>.
+            </p>
+          </div>
+        </div>
+
+        <button type="button" class="btn btn-primary btn-lg btn-block disabled"
+        id="setup-submit">
+          Let's Play
+        </button>
+      </form>
+    </div>
+
+    <div id='play-area'>
+      <div class='row'>
+        <div class='col-md-6'>
+          <div id='bid'>
+            <h3>
+              <b id='dealer'>DEALER</b> deals <span id='num-cards'>NUMBER OF CARDS</span> to each player and <span id='reveal-trump'>reveals</span> <span id='no-trump' class='font-weight-bold text-danger'>does not reveal</span> a trump card.
+            </h3>
+            <div id='bid-players'>
+            </div>
+            <button type="button" class="btn btn-primary btn-lg btn-block disabled"
+            id="bids-submit">
+              Confirm Bids
+            </button>
+            <button type="button" class="btn btn-outline-warning btn-lg btn-block"
+            id="bids-back">
+              Go Back
+            </button>
+          </div>
+
+          <div id='tricks'>
+            <h3>
+              <b id='leader'>LEADER</b> plays first. After all cards have been played, report which players made their bids.
+            </h3>
+            <hr>
+            <div id='tricks-players'>
+            </div>
+            <hr>
+            <button type="button" class="btn btn-primary btn-lg btn-block disabled"
+            id="tricks-submit">
+              Confirm Tricks
+            </button>
+            <button type="button" class="btn btn-outline-warning btn-lg btn-block"
+            id="tricks-back">
+              Go Back
+            </button>
+          </div>
+          <div id='endscreen'>
+            <h2><span id='winner'>WINNER</span> won the game!</h2>
+            <button type='button' class='btn btn-primary btn-lg btn-block' id='again'>
+              Play Another Game
+            </button>
+            <div id='donate' class='my-5'>
+              <p> Enjoying Bid Scorer in the Cloud? Consider chipping in for future development or just making me fatter!</p>
+              <a href="https://www.buymeacoffee.com/billwolf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a piece of pizza&emoji=🍕&slug=billwolf&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
+            </div>
+          </div>
+        </div>
+        <div class='col-md-6' id='scoreboard'>
+          Dis is where the scoresheet goes.
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="screw-the-dealer" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+          <div class="modal-header bg-danger text-white vcenter">
+            <h3 class="modal-title" id="screw-title">Screw the Dealer</h3><button type="button" class="close text-white" data-dismiss="modal">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>The dealer's bid cannot cause the sum of the bids to be equal to the number of cards in the hand.</p>
+          </div>
+          <div class="modal-footer text-center">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">
+              Grr... Fine.
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="bid-error" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header bg-warning text-white vcenter">
+            <h3 class="modal-title" id="screw-title">Incorrect/Incomplete Bids</h3><button type="button" class="close text-white" data-dismiss="modal">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>
+              Make sure all players have recorded bids and that the total 
+              sum of the bids does not equal <span id='hand-size'>HAND SIZE</span>.
+            </p>
+          </div>
+          <div class="modal-footer text-center">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">
+              Whoops! Thanks.
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="tricks-error" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header bg-warning text-white vcenter">
+            <h3 class="modal-title" id="screw-title">Incorrect/Incomplete Outcomes</h3><button type="button" class="close text-white" data-dismiss="modal">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Make sure all players have recorded outcomes of the hand.</p>
+          </div>
+          <div class="modal-footer text-center">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">
+              Whoops! Thanks.
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="setup-error" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header bg-warning text-white vcenter">
+            <h3 class="modal-title" id="screw-title">Invalid Setup</h3><button type="button" class="close text-white" data-dismiss="modal">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Make sure you have names for all of your players, and that there are enough cards in a 52-card deck for that number of players with the maximum number of cards dealt.</p>
+          </div>
+          <div class="modal-footer text-center">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">
+              Whoops! Thanks.
+            </button>
+          </div>
+        </div>
+      </div>
+    </div> 
+  </div>
+</body>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/application.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/application.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+<script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'></script>
+
+
+
+<script src="/js/bid_scorer.js"></script>
+
+</html>
+
