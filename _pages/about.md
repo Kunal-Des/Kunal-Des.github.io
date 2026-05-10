@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a third year PhD student in Astronomy and Astrophysics in the group of [Prof. Hugues Sana](https://fys.kuleuven.be/ster/staff/senior-staff/sana) at the [Institute of Astronomy, KU Leuven](https://fys.kuleuven.be/ster) in Belgium. I am primarily an observational astronomer interested in massive binary stars. My thesis work has mainly focused on Wolf-Rayet stars and candidate single-degenerate massive binaries hosting compact objects. I am also actively involved in the [BLOeM](https://www.tomershenar.com/bloem) and [SOUL](https://fys.kuleuven.be/ster/research-projects/soul/soul) collaborations where I explore other fun evolutionary stages of massive stars. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I hail from the city of Pune, India (as do many astronomers, thanks to [IUCAA](https://www.iucaa.in/en/)). I did my undergraduate studies at IIT Bombay in Mumbai from 2017-2021 in Metallurgical Engineering and Materials Science. However, I was lured into pursuing astronomy after some fun projects with [Prof. Varun Bhalerao](https://www.star-iitb.in/group/varun-bhalerao). I continued this pursuit as a graduate student at Texas Tech University, joining the group of [Prof. Thomas Kupfer](https://www.physik.uni-hamburg.de/en/hs/group---kupfer/team-members/kupfer-thomas.html). After two fruitful years of studying hot subdwarf binaries for my master thesis, I moved to my current position in Belgium to work on much more massive binaries.
+
+During my time at IIT Bombay, I co-led the institute astronomy club [Krittika](https://krittikaiitb.github.io) and organized the first edition of [Krittika Summer Projects (KSP)](https://krittikaiitb.github.io/ksp/) - 2-month introductory astronomy projects meant for undergraduates (but open for all). KSP has only grown over the years thanks to the Krittika community; do check out the [website](https://krittikaiitb.github.io/ksp/) to know more!
+
+
 
 A data-driven personal website
 ======
