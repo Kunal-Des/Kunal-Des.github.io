@@ -2,9 +2,9 @@
 title: "Limiting the accretion disk light in two mass transferring hot subdwarf binaries"
 collection: publications
 category: manuscripts
-permalink: /publication/2023
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2010-10-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2211.12502'
