@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy and Astrophysics, KU Leuven, 2027 (expected)
+* M.S. in Physics, Texas Tech University, 2023
+* B.S. in Metallurgical Engineering and Materials Science, IIT Bombay, 2021
 
-Work experience
+Observing experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Competitive telescope time awarded as Principal Investigator
+  * 45+ hours of VLTI (AT and UT) across six proposals
+  * 36 hours of VLT/XSHOOTER
+  * 4 orbits of HST/COS
+  * 10 hours of CHARA/MYSTIC+MIRC-X
+  * 23 ks of AstroSat (multiwavelength)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* On-site and remote observations
+  * 37 nights at Mercator Telescope, La Palma, Spain
+  * 11 nights at McDonald Observatory, TX, USA
+  * 100+ nights at GROWTH India Telescope, Hanle, India (fully remote)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -47,18 +37,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* "Wolf-Rayet stars with four eyes" at KU Leuven
+* "Hunting black holes in the Tarantula nebula" at ESO Chile
+* "Uncovering mysteries of Wolf-Rayet stars with GRAVITY" at ESO Chile
+* "The multiplicity of Wolf-Rayet stars" at ESO Garching
+* "From hot subwarfs to type Ia supernovae" at IIT Bombay
   
-Teaching
+Teaching and mentorship
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Supervisor for Bachelor and Master projects at KU Leuven (incl. theses)
+* Teaching assistant for General Physics labs at Texas Tech
+* Mentor for Krittika Summer Projects hosted at IIT Bombay
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Referee for The Astrophysical Journal and Astronomy & Astrophysics 
+* Primary organizer of the Leuven Massive Stars journal club 
+* Coordinator of the Massive Stars website and monthly newsletter
