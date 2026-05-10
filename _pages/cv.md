@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,20 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Below is my short CV, a full version is available here.
+
 Education
 ======
 * Ph.D in Astronomy and Astrophysics, KU Leuven, 2027 (expected)
 * M.S. in Physics, Texas Tech University, 2023
-* B.S. in Metallurgical Engineering and Materials Science, IIT Bombay, 2021
+* B.Tech. in Metallurgical Engineering and Materials Science, IIT Bombay, 2021
 
 Observing experience
 ======
 * Competitive telescope time awarded as Principal Investigator
-  * 45+ hours of VLTI (AT and UT) across six proposals
+  * 45+ hours of VLTI (AT and UT)
   * 36 hours of VLT/XSHOOTER
   * 4 orbits of HST/COS
   * 10 hours of CHARA/MYSTIC+MIRC-X
-  * 23 ks of AstroSat (multiwavelength)
+  * 23 ks of AstroSat
 
 * On-site and remote observations
   * 37 nights at Mercator Telescope, La Palma, Spain
