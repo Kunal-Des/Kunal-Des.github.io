@@ -20,11 +20,11 @@ Education
 Observing experience
 ======
 * Competitive telescope time awarded as Principal Investigator
-  * 45+ hours of VLTI (AT and UT)
-  * 36 hours of VLT/XSHOOTER
-  * 4 orbits of HST/COS
-  * 10 hours of CHARA/MYSTIC+MIRC-X
-  * 23 ks of AstroSat
+  * 46 hours -- VLTI (AT and UT)
+  * 36 hours -- VLT/XSHOOTER
+  * 4 orbits -- HST/COS
+  * 10 hours -- CHARA
+  * 23 ks -- AstroSat
 
 * On-site and remote observations
   * 37 nights at Mercator Telescope, La Palma, Spain
@@ -33,19 +33,22 @@ Observing experience
 
 
 
-Publications
+First-author publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Selected Talks
+Selected talks
 ======
-* "Wolf-Rayet stars with four eyes" at KU Leuven
-* "Hunting black holes in the Tarantula nebula" at ESO Chile
-* "Uncovering mysteries of Wolf-Rayet stars with GRAVITY" at ESO Chile
-* "The multiplicity of Wolf-Rayet stars" at ESO Garching
-* "From hot subwarfs to type Ia supernovae" at IIT Bombay
+* "_What interferometry can do for hot subdwarf science_" at MPIA Heidelberg
+* "_Uncovering mysteries of Wolf-Rayet stars with GRAVITY_" at MPE Garching
+* "_Interferometry of binaries across the HRD_" at University of Potsdam
+* "_Studying Wolf-Rayet stars with four eyes_" at KU Leuven
+* "_Hunting black holes in the Tarantula nebula_" at ESO Chile
+* "_Uncovering mysteries of Wolf-Rayet stars with GRAVITY_" at ESO Chile
+* "_The multiplicity of Wolf-Rayet stars_" at ESO Garching
+* "_From hot subwarfs to type Ia supernovae_" at IIT Bombay
   
 Teaching and mentorship
 ======
@@ -56,6 +59,6 @@ Teaching and mentorship
   
 Service and leadership
 ======
-* Referee for The Astrophysical Journal and Astronomy & Astrophysics 
+* Referee for _The Astrophysical Journal_ and _Astronomy & Astrophysics_ 
 * Primary organizer of the Leuven Massive Stars journal club 
 * Coordinator of the Massive Stars website and monthly newsletter
