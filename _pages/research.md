@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: "Hi there!"
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
 ---
 
 I'm Kunal, a third year PhD student in Astronomy and Astrophysics in the group of [Prof. Hugues Sana](https://fys.kuleuven.be/ster/staff/senior-staff/sana) at the [Institute of Astronomy, KU Leuven](https://fys.kuleuven.be/ster) in Belgium. I am primarily an observational astronomer interested in massive binary stars, though with occasional detours into theory and low mass binaries. My thesis work has mainly focused on Wolf-Rayet stars and candidate single-degenerate massive binaries hosting compact objects. I am also actively involved in the [BLOeM](https://www.tomershenar.com/bloem) and [SOUL](https://fys.kuleuven.be/ster/research-projects/soul/soul) collaborations where I also explore other evolutionary stages of massive stars. 
