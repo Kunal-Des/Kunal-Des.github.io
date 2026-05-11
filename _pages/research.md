@@ -10,7 +10,6 @@ author_profile: true
 
 {% include base_path %}
 
-Below is my short CV, a full version is available here.
 
 Wolf-Rayet stars
 ======
