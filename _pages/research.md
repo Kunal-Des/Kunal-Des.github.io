@@ -38,7 +38,7 @@ Several studies in literature have addressed WR multiplicity, most commonly usin
 
 
 
-* _WR 25 is a massive ~binary~ hierarchical triple system_
+* _WR 25 is a massive ~~binary~~ hierarchical triple system_
 
 
 
