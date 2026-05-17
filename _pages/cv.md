@@ -13,9 +13,9 @@ Below is my short CV, a full version is available here.
 
 Education
 ======
-* Ph.D in Astronomy and Astrophysics, KU Leuven, 2027 (expected)
-* M.S. in Physics, Texas Tech University, 2023
-* B.Tech. in Metallurgical Engineering and Materials Science, IIT Bombay, 2021
+* Ph.D, Astronomy and Astrophysics, KU Leuven, 2027 (expected)
+* M.S, Physics, Texas Tech University, 2023
+* B.Tech, Metallurgical Engineering and Materials Science, IIT Bombay, 2021
 
 Observing experience
 ======
@@ -45,8 +45,8 @@ Selected talks
 * "_Uncovering mysteries of Wolf-Rayet stars with GRAVITY_" at MPE Garching
 * "_Interferometry of binaries across the HRD_" at University of Potsdam
 * "_Studying Wolf-Rayet stars with four eyes_" at KU Leuven
-* "_Hunting black holes in the Tarantula nebula_" at ESO Chile
-* "_Uncovering mysteries of Wolf-Rayet stars with GRAVITY_" at ESO Chile
+* "_Hunting black holes in the Tarantula nebula_" at ESO Santiago
+* "_Uncovering mysteries of Wolf-Rayet stars with GRAVITY_" at ESO Santiago
 * "_The multiplicity of Wolf-Rayet stars_" at ESO Garching
 * "_From hot subwarfs to type Ia supernovae_" at IIT Bombay
   
