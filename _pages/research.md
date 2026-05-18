@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research themes"
+title: "Research themes (under construction)"
 permalink: /research/
 author_profile: true
 #redirect_from:
@@ -9,9 +9,6 @@ author_profile: true
 
 
 {% include base_path %}
-
-Under construction...
-===
 
 
 My current research focuses on observations of massive binary stars. However, since I studied hot subdwarf binaries for my master thesis, I maintain continued interest in them through occasional projects. Below, I present a short summary of the two main themes along with projects within. 
