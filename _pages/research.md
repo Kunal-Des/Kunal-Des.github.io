@@ -80,4 +80,4 @@ Wide hot subdwarf + main sequence binaries
 ------
 
 
-* _Toward 3D orbits of wide sdO/B binaries_
+* _Introducing interferometry to sdO/B science - toward 3D orbits of wide sdO/B + MS binaries_
