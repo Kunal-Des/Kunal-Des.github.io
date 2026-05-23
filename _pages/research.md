@@ -11,14 +11,14 @@ author_profile: true
 {% include base_path %}
 
 
-My current research focuses on observations of massive binary stars. However, since I studied hot subdwarf binaries for my master thesis, I maintain continued interest in them through occasional projects. Below, I present a short summary of the two main themes along with projects within. 
+My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries through occasional projects. Below is a semi-detailed summary of my projects. 
 
 
 Massive stars
 ======
-Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars), owing to their very eventful lives and often spectacular deaths leaving behind compact objects (neutron stars or black holes). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems. Furthermore, about 70% are likely to interact (e.g. tides, mass transfer, mergers) with their companions during their lifetime. Consequently, massive binary evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
+Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars). They lead very eventful lives and often die spectacularly, leaving behind compact objects (neutron stars or black holes). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems. Furthermore, about 70% are likely to interact (e.g. tides, mass transfer, mergers) with their companions during their lifetime. Consequently, massive binary evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
 
-In this general context, massive binary stars have to jump through several evolutionary hoops before they can end up as merging compact objects. Observational constraints for massive binaries across different evolutionary phases are a non-negotiable necessity to benchmark binary evolution models and constrain uncertain physics (e.g. mass transfer efficiency, supernova natal kicks, etc.). However, our current knowledge of evolved massive binaries is very limited. 
+In this general context, massive binary stars have to jump through several evolutionary hoops before they can end up as merging compact objects. Observational constraints for massive binaries across different evolutionary phases are a non-negotiable necessity to benchmark binary evolution models and constrain uncertain physics (e.g. mass transfer efficiency, supernova natal kicks, etc.). However, our current knowledge of evolved massive binaries is quite limited. 
 
 My PhD research primarily aims to improve the situation for two evolved phases: the WR + OB phase and the BH + OB phase. Because evolved massive binaries are super interesting, I also explore detours motivated by new findings/ideas along the way.
 
@@ -50,6 +50,13 @@ Massive binaries hosting stellar-mass black holes
 ------
 
 
+* _VFTS 812: an eccentric massive OB + BH candidate_
+
+
+* _A census of OB + BH binary candidates in the Tarantula nebula_
+
+
+* _What can Cygnus OB3 teach us about Cygnus X-1?_
 
 
 Hot subdwarf stars
@@ -61,6 +68,16 @@ Compact hot subdwarf + white dwarf binaries
 ------
 
 
+* _Looking for signatures of accretion in two mass-transferring sdO/B + WD systems_
+
+
+
+* _Modeling the double detonation candidate system CD-3011223_
+
+
 
 Wide hot subdwarf + main sequence binaries
 ------
+
+
+* _Toward 3D orbits of wide sdO/B binaries_
