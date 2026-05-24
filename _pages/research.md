@@ -32,10 +32,10 @@ WR + OB binaries represent an important, evolved population of massive binaries 
 
 We conducted an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY to probe orbital periods $$P\approx 10^2 - 10^5$$ d and companions masses down to $$M\approx5\,M_\odot$$. Here are the key takeaways:
 
-    - New, wide companions were detected for only four WRs 
-    - No long-period peak was found for WR + OB binaries predicted by binary evolution models
-    - WN and WC multiplicity was found to be 
-    - Stellar winds were spatially resolved for four WRs
+    * New, wide companions were detected for only four WRs 
+    * No long-period peak was found for WR + OB binaries predicted by binary evolution models
+    * WN and WC multiplicity was found to be 
+    * Stellar winds were spatially resolved for four WRs
 
 Given the heterogeneous nature of our sample (and of the WR population in general), expanding the sample will be crucial to compare sub-classes of WRs within themselves and with adjacent evolutionary phases.
 
