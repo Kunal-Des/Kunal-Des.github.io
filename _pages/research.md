@@ -28,7 +28,7 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 * **_Probing massive binary evolution with the WR + OB phase_**
 
-   WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
+   WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbits of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
 
    In [Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract), we presented an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY to probe orbital periods $$P\approx 10^2 - 10^5$$ d and companion masses down to $$M\approx5\,M_\odot$$. Here are the key takeaways:
 
@@ -43,7 +43,7 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 * **_Confirming the wide binary status of the quasi-WR HD 45166_**
 
-   HD 45166 harbors a unique Wolf-Rayet star, dubbed as a "quasi-WR", along with a B-type companion. A recent study by [Shenar et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Sci...381..761S/abstract) revealed the quasi-WR to be a $$2.0\pm0.4\,M_\odot$$ highly magnetic star and potentially a magnetar progenitor based on spectropolarimetric observations. They also reported a 22-yr binary orbital period using archival spectroscopic data, although the rotation of the quasi-WR and pulsations of the B-type star adding substantial uncertainties.
+   HD 45166 harbors a unique Wolf-Rayet star, dubbed as a "quasi-WR", along with a B-type companion. A recent study by [Shenar et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Sci...381..761S/abstract) revealed the quasi-WR to be a $$2.0\pm0.4\,M_\odot$$ highly magnetic star and potentially a magnetar progenitor based on spectropolarimetric observations. They also reported a 22-yr binary orbital period using archival spectroscopic data, although with the rotation of the quasi-WR and pulsations of the B-type star adding substantial uncertainties.
 
    In [Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract), we confirmed the wide binary status of HD 45166 with VLTI/GRAVITY and reported the first dynamical mass estimates for its two components. Following are the key takeaways:
 
@@ -55,11 +55,11 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 
 
-* _WR 25 is a massive ~~binary~~ hierarchical triple system_
+* **_WR 25 is a massive ~~binary~~ hierarchical triple system_**
 
 
 
-* _Uncovering large-scale wind structures in WR 6_
+* **_Uncovering large-scale wind structures in WR 6_**
 
 
 
@@ -67,13 +67,13 @@ Massive binaries hosting stellar-mass black holes
 ------
 
 
-* _VFTS 812: an eccentric massive OB + BH candidate_
+* **_VFTS 812: an eccentric massive OB + BH candidate_**
 
 
-* _A census of OB + BH binary candidates in the Tarantula nebula_
+* **_A census of OB + BH binary candidates in the Tarantula nebula_**
 
 
-* _What can Cygnus OB3 teach us about Cygnus X-1?_
+* **_What can Cygnus OB3 teach us about Cygnus X-1?_**
 
 
 Hot subdwarf stars
@@ -85,11 +85,11 @@ Compact hot subdwarf + white dwarf binaries
 ------
 
 
-* _Looking for signatures of accretion in two mass-transferring sdO/B + WD systems_
+* **_Looking for signatures of accretion in two mass-transferring sdO/B + WD systems_**
 
 
 
-* _Modeling the double detonation candidate system CD-3011223_
+* **_Modeling the double detonation candidate system CD-3011223_**
 
 
 
@@ -97,4 +97,4 @@ Wide hot subdwarf + main sequence binaries
 ------
 
 
-* _Introducing interferometry to sdO/B science - toward 3D orbits of wide sdO/B + MS binaries_
+* **_Introducing interferometry to sdO/B science - toward 3D orbits of wide sdO/B + MS binaries_**
