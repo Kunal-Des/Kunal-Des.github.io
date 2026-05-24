@@ -26,7 +26,7 @@ Wolf-Rayet stars
 Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are usually stripped by their own stellar winds or a binary companion, although relative contribution of the two channels is uncertain. While WRs are considered to be immediate progenitors for stellar-mass black holes, they can be challenging to study due to their spectra being dominated by strong and variable emission lines. I bring a fresh perspective to WR science using long-baseline interferometry.
 
 
-1. _Probing massive binary evolution with the WR + OB phase_
+* **_Probing massive binary evolution with the WR + OB phase_**
 
    WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
 
@@ -41,15 +41,15 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 
 
-2. _Confirming the wide binary status of the quasi-WR HD 45166_
+* _Confirming the wide binary status of the quasi-WR HD 45166_
 
 
 
-3. _WR 25 is a massive ~~binary~~ hierarchical triple system_
+* _WR 25 is a massive ~~binary~~ hierarchical triple system_
 
 
 
-4. _Uncovering large-scale wind structures in WR 6_
+* _Uncovering large-scale wind structures in WR 6_
 
 
 
