@@ -28,16 +28,16 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 1. _Probing massive binary evolution with the WR + OB phase_
 
-WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
+   WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
 
-We conducted an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY to probe orbital periods $$P\approx 10^2 - 10^5$$ d and companions masses down to $$M\approx5\,M_\odot$$. Here are the key takeaways:
+   In [Deshmukh et al. 2024](https://arxiv.org/pdf/2409.15212), we presented an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY to probe orbital periods $$P\approx 10^2 - 10^5$$ d and companion masses down to $$M\approx5\,M_\odot$$. Here are the key takeaways:
 
-  * New, wide companions were detected for only four WRs 
-  * No long-period peak was found for WR + OB binaries predicted by binary evolution models
-  * WN and WC multiplicity was found to be 
-  * Stellar winds were spatially resolved for four WRs
+     * New, wide companions were detected for only four WRs 
+     * No long-period peak was found for WR + OB binaries predicted by binary evolution models
+     * WN and WC multiplicity was found to be 
+     * Stellar winds were spatially resolved for four WRs
 
-Given the heterogeneous nature of our sample (and of the WR population in general), expanding the sample will be crucial to compare sub-classes of WRs within themselves and with adjacent evolutionary phases.
+   Given the heterogeneous nature of our sample (and of the WR population in general), expanding the sample will be crucial to compare sub-classes of WRs among each other and with adjacent evolutionary phases.
 
 
 
