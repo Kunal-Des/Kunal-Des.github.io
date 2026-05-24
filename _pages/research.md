@@ -49,7 +49,7 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
      * The two components were spatially resolved with an angular separation of $$10.9\pm0.1$$ mas
      * The corresponding projected physical separation was $$10.8\pm0.4$$ au, consistent with a 22-yr period
-     * Dynamical masses derived were $$M_{\rm qWR}=2.0^{+0.7}_{-0.5}\,M_\odot$$ and $$M_{\rm B}=3.4^{+1.0}_{-0.8}\,M_\odot$$
+     * Dynamical masses derived were $$\small M_{\rm qWR}=2.0^{+0.7}_{-0.5}\,M_\odot$$ and $$M_{\rm B}=3.4^{+1.0}_{-0.8}\,M_\odot$$
 
    Owing to the high uncertainty on the quasi-WR mass, the jury is still out on whether it will ultimately collapse into a magnetar. Continued spectroscopic and interferometric monitoring will be crucial to refine our estimates.
 
