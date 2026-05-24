@@ -30,7 +30,14 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
 
-We conducted an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY, searching for companions with orbital periods $$P\approx 10^2 - 10^5$$ d and masses down to $$M\approx5\,M_\odot$. 
+We conducted an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY to probe orbital periods $$P\approx 10^2 - 10^5$$ d and companions masses down to $$M\approx5\,M_\odot$$. Here are the key takeaways:
+
+ * New, wide companions were detected for only four WRs 
+ * No long-period peak was found for WR + OB binaries predicted by binary evolution models
+ * WR winds were spatially resolved for four WRs
+
+Given the heterogeneous nature of our sample (and of the WR population in general), expanding the sample will be crucial to compare sub-classes of WRs within themselves and with adjacent evolutionary phases.
+
 
 
 * _Confirming the wide binary status of the quasi-WR HD 45166_
