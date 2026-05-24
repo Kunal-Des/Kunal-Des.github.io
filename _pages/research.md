@@ -11,27 +11,26 @@ author_profile: true
 {% include base_path %}
 
 
-My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries through occasional projects. Below is a semi-detailed summary of my projects. 
+My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries through occasional projects. Below is a short summary of my projects. 
 
 
 Massive stars
 ======
-Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars). They lead very eventful lives and often die spectacularly, leaving behind compact objects (neutron stars or black holes). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems. Furthermore, about 70% are likely to interact (e.g. tides, mass transfer, mergers) with their companions during their lifetime. Consequently, massive binary evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
+Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars). They lead very eventful lives and often die spectacularly, leaving behind compact objects (neutron stars or black holes). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems, a majority of which interact during their lifetime. Consequently, massive binary/multiple evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
 
-In this general context, massive binary stars have to jump through several evolutionary hoops before they can end up as merging compact objects. Observational constraints for massive binaries across different evolutionary phases are a non-negotiable necessity to benchmark binary evolution models and constrain uncertain physics (e.g. mass transfer efficiency, supernova natal kicks, etc.). However, our current knowledge of evolved massive binaries is quite limited. 
-
-My PhD research primarily aims to improve the situation for two evolved phases: the WR + OB phase and the BH + OB phase. Because evolved massive binaries are super interesting, I also explore detours motivated by new findings/ideas along the way.
+In this general context, massive binary stars have to jump through several evolutionary hoops before they can end up as merging compact objects. Observational constraints for massive binaries across different evolutionary phases are a non-negotiable necessity to benchmark binary evolution models and constrain uncertain physics (e.g. mass transfer efficiency, supernova natal kicks, etc.). However, our current knowledge of evolved massive binaries is quite limited. My PhD research primarily aims to improve the situation for two evolved phases: the WR + OB phase and the BH + OB phase. Because evolved massive binaries are super interesting, I also explore detours motivated by new findings/ideas along the way.
 
 
 Wolf-Rayet stars
 ------
-Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are stripped either by their own stellar winds or a binary companion. Owing to their strong, optically thick winds and H- or He-burning products exposed on the surface, their spectra are dominated by broad emission lines of elements such as helium, nitrogen, carbon or oxygen. Based on spectral appearance, WRs are further classified into WN (N-rich), WC (C-rich) and WO (O-rich). An additional sub-class, WNh, consists of WN stars that also show hydrogen spectral lines; in many cases, these stars are very massive O-type stars luminous enough to power very strong stellar winds while still burning hydrogen in their cores.
+Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are usually stripped by their own stellar winds or a binary companion, although relative contribution of the two channels is uncertain. While WRs are considered to be immediate progenitors for stellar-mass black holes, they can be challenging to study due to their spectra being dominated by strong and variable emission lines. I bring a fresh perspective to WR science using long-baseline interferometry.
+
 
 * _Probing massive binary evolution with the WR + OB phase_
 
-WR stars are immediate progenitors of stellar-mass black holes. WR + OB binaries therefore represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WR stars? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries?
+WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbital properties of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity, most commonly using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
 
-Several studies in literature have addressed WR multiplicity, most commonly using spectroscopy and finding a multiplicity fraction around 40%. While spectroscopy is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d), the broad emission line spectra of WRs make it very challenging to find and characterize longer period binaries. Moreover, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
+We conducted an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY, searching for companions with orbital periods $$P\approx 10^2 - 10^5$$ d and masses down to $$M\approx5\,M_\odot$. 
 
 
 * _Confirming the wide binary status of the quasi-WR HD 45166_
