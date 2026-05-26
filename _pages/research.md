@@ -43,7 +43,7 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 * **_Confirming the wide binary status of the quasi-WR HD 45166_**
 
-   HD 45166 harbors a unique Wolf-Rayet star, dubbed as a "quasi-WR", along with a B-type companion. A recent study by [Shenar et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Sci...381..761S/abstract) revealed the quasi-WR to be a $$2.0\pm0.4\,M_\odot$$ highly magnetic star and potentially a magnetar progenitor based on spectropolarimetry. They also reported a 22-yr binary orbital period using archival spectroscopic data, although with the rotation of the quasi-WR and pulsations of the B-type star adding substantial uncertainties.
+   HD 45166 harbors a unique WR star, dubbed as a "quasi-WR", along with a B-type companion. A recent study by [Shenar et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Sci...381..761S/abstract) revealed the quasi-WR to be a $$2.0\pm0.4\,M_\odot$$ highly magnetic star and potentially a magnetar progenitor based on spectropolarimetry. They also reported a 22-yr binary orbital period using archival spectroscopic data, although with the rotation of the quasi-WR and pulsations of the B-type star adding substantial uncertainties.
 
    In [Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract), we confirmed the wide binary status of HD 45166 with VLTI/GRAVITY and reported the first dynamical mass estimates for its two components. Following are the key takeaways:
 
@@ -97,4 +97,4 @@ Wide hot subdwarf + main sequence binaries
 ------
 
 
-* **_Introducing interferometry to sdO/B science - toward 3D orbits of wide sdO/B + MS binaries_**
+* **_Introducing interferometry to wide sdO/B binaries - a step toward 3D orbits_**
