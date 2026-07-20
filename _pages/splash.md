@@ -18,7 +18,7 @@ header:
 }
 .page__hero--overlay .wrapper {
   width: 100%;
-  font-family: "Georgia", serif;   /* change to whatever font you want */
+  font-family: "Arial", sans-serif;   /* change to whatever font you want */
 }
 .page__hero--overlay .page__title {
   font-family: inherit;
@@ -29,7 +29,7 @@ header:
   font-size: 1.3em;
 }
 .page__cta {
-  margin-top: 40px;   /* increase this to push the button further down */
+  margin-top: 80px;   /* increase this to push the button further down */
 }
 .page__cta .btn {
   font-family: inherit;
