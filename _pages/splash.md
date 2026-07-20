@@ -6,9 +6,8 @@ excerpt: "Astronomy PhD Candidate, KU Leuven"
 header:
   overlay_image: Tarantula-HST-ESO-Webb-LL.png
   overlay_filter: 0.5
-  actions:
-    - label: "More"
-      url: "/home/"
+  cta_url: "/home/"
+  cta_label: "More"
 ---
 
 <style>
