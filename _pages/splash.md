@@ -2,7 +2,7 @@
 permalink: /
 layout: splash
 title: "Kunal Deshmukh"
-excerpt: "Observational astronomer studying binary stars across the HRD"
+excerpt: "Observational astronomer studying binary stars across the HR"
 header:
   overlay_image: Tarantula-HST-ESO-Webb-LL.jpg
   overlay_filter: 0.3
@@ -15,15 +15,8 @@ header:
   min-height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 .page__hero--overlay .wrapper {
   width: 100%;
-  text-align: center !important;
-}
-.page__hero--overlay .wrapper .page__title,
-.page__hero--overlay .wrapper .page__lead,
-.page__hero--overlay .wrapper p {
-  text-align: center !important;
 }
 </style>
