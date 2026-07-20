@@ -10,3 +10,16 @@ header:
     - label: "More"
       url: "/home/"
 ---
+
+<style>
+.page__hero--overlay {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.page__hero--overlay .wrapper {
+  width: 100%;
+}
+</style>
