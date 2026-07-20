@@ -16,9 +16,14 @@ header:
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
 }
 .page__hero--overlay .wrapper {
   width: 100%;
+  text-align: center !important;
+}
+.page__hero--overlay .wrapper .page__title,
+.page__hero--overlay .wrapper .page__lead,
+.page__hero--overlay .wrapper p {
+  text-align: center !important;
 }
 </style>
