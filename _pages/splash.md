@@ -4,10 +4,10 @@ layout: splash
 title: "Kunal Deshmukh"
 excerpt: "Astronomy PhD Candidate, KU Leuven"
 header:
-  overlay_image: Tarantula-HST-ESO-Webb-LL.png
+  overlay_image: Tarantula-HST-ESO-Webb-LL.jpg
   overlay_filter: 0.5
   cta_url: "/home/"
-  cta_label: "More"
+  cta_label: "Home"
 ---
 
 <style>
