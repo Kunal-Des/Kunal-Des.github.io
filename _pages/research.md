@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 
-My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries through occasional projects. Below is a short summary of my projects. 
+My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries and related objects through occasional projects. Below is a short summary of my projects. 
 
 
 Massive stars
@@ -23,36 +23,14 @@ In this general context, massive binary stars have to jump through several evolu
 
 Wolf-Rayet stars
 ------
-Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are usually stripped by their own stellar winds or a binary companion, although relative contribution of the two channels is uncertain. While WRs are considered to be immediate progenitors for stellar-mass black holes, they can be challenging to study due to their spectra being dominated by strong and variable emission lines. I bring a fresh perspective to WR science using long-baseline interferometry.
+Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are usually stripped by their own stellar winds or a binary companion, although relative contribution of the two channels is uncertain. While WRs are considered to be immediate progenitors for stellar-mass black holes, they can be challenging to study due to their spectra being dominated by strong and variable emission lines. I bring a fresh perspective to WR science using long-baseline interferometry, addressing the following questions
 
 
-* **_Probing massive binary evolution with the WR + OB phase_**
-
-   WR + OB binaries represent an important, evolved population of massive binaries that are compact object merger progenitors. However, do all massive binaries actually evolve to become WR + OB binaries? What is the role of binary evolution in the formation of WRs? How are the orbits of massive binaries modified as they evolve into WR + OB binaries? Several studies in the literature have addressed WR multiplicity using spectroscopy, which is effective for relatively short orbital periods ($$P\lesssim 10^2$$ d). However, theoretical models predict a large fraction of WR + OB binaries to have orbital periods $$P\gtrsim 10^2$$ d, making it important to hunt down this long-period binary population. 
-
-   In [Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract), we presented an interferometric survey of 39 Galactic WRs with VLTI/GRAVITY to probe orbital periods $$P\approx 10^2 - 10^5$$ d and companion masses down to $$M\approx5\,M_\odot$$. Here are the key takeaways:
-
-     * New, wide companions were detected for only four WRs 
-     * A staggering 60% WRs retained their likely-single status
-     * No long-period peak was found for WR + OB binaries predicted by binary evolution models
-     * Stellar winds were spatially resolved for four WRs
-
-   Given the heterogeneous nature of our sample (and of the WR population in general), expanding the sample will be crucial to compare sub-classes of WRs among each other and with adjacent evolutionary phases.
+* **_Where are all the wide WR + OB binaries?_** - We conducted an interferometric survey of 39 Galactic WR stars to look for the "missing" wide binaries, and found ourselves in a long period desert [Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract).
 
 
 
-* **_Confirming the wide binary status of the quasi-WR HD 45166_**
-
-   HD 45166 harbors a unique WR star, dubbed as a "quasi-WR", along with a B-type companion. A recent study by [Shenar et al. 2023](https://ui.adsabs.harvard.edu/abs/2023Sci...381..761S/abstract) revealed the quasi-WR to be a $$2.0\pm0.4\,M_\odot$$ highly magnetic star and potentially a magnetar progenitor based on spectropolarimetry. They also reported a 22-yr binary orbital period using archival spectroscopic data, although with the rotation of the quasi-WR and pulsations of the B-type star adding substantial uncertainties.
-
-   In [Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract), we confirmed the wide binary status of HD 45166 with VLTI/GRAVITY and reported the first dynamical mass estimates for its two components. Following are the key takeaways:
-
-     * The two components were spatially resolved with an angular separation of $$10.9\pm0.1$$ mas
-     * The corresponding projected physical separation was $$10.8\pm0.4$$ au, consistent with a 22-yr period
-     * Dynamical masses derived were $$M_{\rm qWR}=2.0^{+0.7}_{-0.5}\,M_\odot$$ and $$M_{\rm B}=3.4^{+1.0}_{-0.8}\,M_\odot$$
-
-   Owing to the high uncertainty on the quasi-WR mass, the jury is still out on whether it will ultimately collapse into a magnetar. Continued spectroscopic and interferometric monitoring will be crucial to refine our estimates.
-
+* **_Is the quasi-WR HD 45166 really a wide binary?_** - With one interferometric observation, we confirmed the wide binary nature of HD 45166 proposed using spectroscopy, and took the first step toward measuring the dynamical mass of a magnetar progenitor [Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract).
 
 
 * **_WR 25 is a massive ~~binary~~ hierarchical triple system_**
