@@ -26,18 +26,18 @@ Wolf-Rayet stars
 Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are usually stripped by their own stellar winds or a binary companion, although relative contribution of the two channels is uncertain. While WRs are considered to be immediate progenitors for stellar-mass black holes, they can be challenging to study due to their spectra being dominated by strong and variable emission lines. I bring a fresh perspective to WR science using long-baseline interferometry, addressing the following questions
 
 
-* **_Where are all the wide WR + OB binaries?_** - We conducted an interferometric survey of 39 Galactic WR stars to look for the "missing" wide binaries, and found ourselves in a long period desert [Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract).
+* **_Where are all the wide WR + OB binaries?_** - We conducted a VLTI/GRAVITY survey of 39 Galactic WR stars to look for the "missing" wide binaries, and found ourselves in a long period desert ([Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract)).
 
 
 
-* **_Is the quasi-WR HD 45166 really a wide binary?_** - With one interferometric observation, we confirmed the wide binary nature of HD 45166 proposed using spectroscopy, and took the first step toward measuring the dynamical mass of a magnetar progenitor [Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract).
+* **_Is the quasi-WR HD 45166 really a wide binary?_** - With one VLTI/GRAVITY observation, we confirmed the wide binary nature of HD 45166 proposed using spectroscopy, and took the first step toward measuring the dynamical mass of a magnetar progenitor ([Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract)).
 
 
-* **_WR 25 is a massive ~~binary~~ hierarchical triple system_**
+* **_What is the intruder hiding in WR 25?_** - We spatially resolved the suspected "intruder" component in the massive colliding-wind binary WR 25 using VLTI/PIONIER, updating its status to a massive hierarchical triple, and measuring dynamical masses for the inner binary ([Deshmukh et al. 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260712836D/abstract)).
 
 
 
-* **_Uncovering large-scale wind structures in WR 6_**
+* **_Does WR 6 have a low-mass companion or large-scale wind structures?_** - Pushing the power of VLTI/GRAVITY to its limits, we aim to tackle the long-standing debate around what causes the periodic variability in WR 6 (Deshmukh et al. in prep.).
 
 
 
