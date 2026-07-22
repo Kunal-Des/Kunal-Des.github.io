@@ -16,7 +16,7 @@ My current research focuses on observations of massive binary stars. I also main
 
 Massive stars
 ======
-Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars). They lead very eventful lives and often die spectacularly, leaving behind compact objects (neutron stars or black holes). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems, a majority of which interact during their lifetime. Consequently, massive binary/multiple evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
+Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars). They lead very eventful lives and often die spectacularly, leaving behind neutron stars (NS) or black holes (BH). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems, a majority of which interact during their lifetime. Consequently, massive binary/multiple evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
 
 In this general context, massive binary stars have to jump through several evolutionary hoops before they can end up as merging compact objects. Observational constraints for massive binaries across different evolutionary phases are a non-negotiable necessity to benchmark binary evolution models and constrain uncertain physics (e.g. mass transfer efficiency, supernova natal kicks, etc.). However, our current knowledge of evolved massive binaries is quite limited. My PhD research primarily aims to improve the situation for two evolved phases: the WR + OB phase and the BH + OB phase. Because evolved massive binaries are super interesting, I also explore detours motivated by new findings/ideas along the way.
 
@@ -43,15 +43,18 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 Massive binaries hosting stellar-mass black holes
 ------
-On the route to form binary black holes, an important checkpoint in massive binary evolution is the OB + BH stage. It represents the evolutionary phase immediately after the first black hole is formed, and can provide critical constraints on the 
+On the route to form binary black holes, an important checkpoint in massive binary evolution is the OB + BH stage. It represents the evolutionary phase immediately after the primary collapses into a BH, and can provide critical constraints on BH formation as well as the accompanying natal kicks and mass loss. Moreover, it also provides pseudo-initial conditions for the potential evolution of OB + BH systems into merging binary black holes.
 
-* **_VFTS 812: an eccentric massive OB + BH candidate_**
-
-
-* **_A census of OB + BH binary candidates in the Tarantula nebula_**
+To answer all these questions, it is important to catch these systems before they start interacting (again) and evolve into X-ray binaries, which can modify their orbital properties further. In other words, the X-ray quiet OB + BH binaries are the ones we are looking for. While _Gaia_ is expected to uncover dozens of such systems in the Galaxy, spectroscopy remains the primary tool to identify and characterize such binaries in the Magellanic clouds, although only one system has been confirmed till date. I am leading a renewed OB + BH hunt in the 30 Doradus region, operating at the limits of spectral disentangling to answer the following questions
 
 
-* **_What can Cygnus OB3 teach us about Cygnus X-1?_**
+
+* **_Is VFTS 812 an eccentric massive O + BH system?_** - We performed a comprehensive spectral disentangling analysis for VFTS 812, a massive SB1 binary, to constrain the nature of the unseen companion. We suggest a rejuvenated O star + BH companion to be the most likely scenario, although follow-up observations will be necessary for confirmation ([Deshmukh et al. 2026](https://ui.adsabs.harvard.edu/abs/2026A%26A...706L..17D/abstract)). 
+
+
+* **_What is the census of O + BH binaries in the Tarantula nebula?_** - Coming soon
+
+
 
 
 Hot subdwarf stars
