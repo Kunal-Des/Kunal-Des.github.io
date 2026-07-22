@@ -37,13 +37,13 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 
 
-* **_Does WR 6 have a low-mass companion or large-scale wind structures?_** - Pushing the power of VLTI/GRAVITY to its limits, we aim to tackle the long-standing debate around what causes the periodic variability in WR 6 (Deshmukh et al. in prep.).
+* **_Does WR 6 have a low-mass companion or large-scale wind structures?_** - Pushing the power of VLTI/GRAVITY to its limits, we tackled the long-standing debate around what causes the periodic variability in WR 6, finding new evidence supporting large-scale wind structures (Deshmukh et al. in prep.).
 
 
 
 Massive binaries hosting stellar-mass black holes
 ------
-
+On the route to form binary black holes, an important checkpoint in massive binary evolution is the OB + BH stage. It represents the evolutionary phase immediately after the first black hole is formed, and can provide critical constraints on the 
 
 * **_VFTS 812: an eccentric massive OB + BH candidate_**
 

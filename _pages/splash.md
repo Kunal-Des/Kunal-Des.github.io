@@ -4,7 +4,7 @@ layout: splash
 title: "Kunal Deshmukh"
 excerpt: "Observational astronomer studying binary stars across the HRD"
 header:
-  overlay_image: splash-img.png
+  overlay_image: splash-img2.png
   overlay_filter: 0.3
   cta_url: "/home/"
   cta_label: "Home"
