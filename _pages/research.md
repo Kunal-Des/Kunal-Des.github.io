@@ -33,7 +33,7 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 * **_Is the quasi-WR HD 45166 really a wide binary?_** - With one VLTI/GRAVITY observation, we confirmed the wide binary nature of HD 45166 proposed using spectroscopy, and took the first step toward measuring the dynamical mass of a magnetar progenitor ([Deshmukh et al. 2025](https://ui.adsabs.harvard.edu/abs/2025A%26A...695L..20D/abstract)).
 
 
-* **_What is the intruder hiding in WR 25?_** - We spatially resolved the suspected "intruder" component in the massive colliding-wind binary WR 25 using VLTI/PIONIER, updating its status to a massive hierarchical triple, and measuring dynamical masses for the inner binary ([Deshmukh et al. 2026](https://ui.adsabs.harvard.edu/abs/2026arXiv260712836D/abstract)).
+* **_What is the intruder hiding in WR 25?_** - We spatially resolved the suspected "intruder" component in the massive colliding-wind binary WR 25 using VLTI/PIONIER, updating its status to a massive hierarchical triple, and measuring dynamical masses for the inner binary ([Deshmukh et al. 2026b](https://ui.adsabs.harvard.edu/abs/2026arXiv260712836D/abstract)).
 
 
 
@@ -49,7 +49,7 @@ To answer all these questions, it is important to catch these systems before the
 
 
 
-* **_Is VFTS 812 an eccentric massive O + BH system?_** - We performed a comprehensive spectral disentangling analysis for VFTS 812, a massive SB1 binary, to constrain the nature of the unseen companion. We suggest a rejuvenated O star + BH companion to be the most likely scenario, although follow-up observations will be necessary for confirmation ([Deshmukh et al. 2026](https://ui.adsabs.harvard.edu/abs/2026A%26A...706L..17D/abstract)). 
+* **_Is VFTS 812 an eccentric massive O + BH system?_** - We performed a comprehensive spectral disentangling analysis for VFTS 812, a massive SB1 binary, to constrain the nature of the unseen companion. We suggest a rejuvenated O star + BH companion to be the most likely scenario, although follow-up observations will be necessary for confirmation ([Deshmukh et al. 2026a](https://ui.adsabs.harvard.edu/abs/2026A%26A...706L..17D/abstract)). 
 
 
 * **_What is the census of O + BH binaries in the Tarantula nebula?_** - Coming soon

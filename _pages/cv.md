@@ -20,7 +20,7 @@ Education
 Observing experience
 ======
 * Competitive telescope time awarded as Principal Investigator
-  * 46 hours -- VLTI (AT and UT; GRAVITY, PIONIER)
+  * 52 hours -- VLTI (AT and UT; GRAVITY, PIONIER)
   * 36 hours -- VLT (XSHOOTER)
   * 4 orbits -- HST (COS)
   * 20 hours -- CHARA (MIRC-X, MYSTIC)
