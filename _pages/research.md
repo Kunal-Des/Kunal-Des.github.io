@@ -71,4 +71,4 @@ Hot subdwarf stars are stripped remnants of low- to intermediate-mass stars ($$M
 
 
 
-* **_Introducing interferometry to long-period sdO/B binaries - a step toward 3D orbits_** - Long period ($$P_{\rm orb} \gtrsim 500\,$$d) sdO/B + main-sequence binaries are important benchmarks for mass transfer physics as they result from stable mass transfer. We started a pilot VLTI campaign to measure 3D orbits, and subsequently dynamical masses, for six such binaries ([Deshmukh et al. 2026c](https://arxiv.org/abs/2607.25741)).
+* **_Introducing interferometry to long-period sdO/B binaries - a step toward 3D orbits_** - Long period ($$P_{\rm orb} \gtrsim 500\,$$d) sdO/B + main-sequence binaries are important benchmarks for mass transfer physics as they result from stable mass transfer. We started a pilot VLTI campaign to measure 3D orbits for six such binaries, and subsequently their dynamical masses, to calibrate stellar and binary evolution models ([Deshmukh et al. 2026c](https://arxiv.org/abs/2607.25741)).
