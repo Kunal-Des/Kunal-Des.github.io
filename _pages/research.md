@@ -60,22 +60,15 @@ To answer all these questions, it is important to catch these systems before the
 Hot subdwarf stars
 ======
 
+Hot subdwarf stars are stripped remnants of low- to intermediate-mass stars ($$M_{\rm ini}\lesssim 8\,M_\odot$$). While being spectroscopically similar to O/B-type stars, they are several orders of magnitude fainter, leading to their classification as O/B-type subdwarfs or sdO/Bs. It is widely accepted that the sdO/B population results from binary/multiple star interactions, making it useful to study different interaction processes such as stable mass transfer and common envelope evolution. My master thesis work focused on sdO/Bs in compact binaries with white dwarfs (WDs) and their potential as gravitational wave and type Ia supernova progenitors. However, I have now expanded my interest to sdO/Bs in long-period binaries as well as sdO/B progenitor systems.
 
 
-Compact hot subdwarf + white dwarf binaries
-------
-
-
-* **_Looking for signatures of accretion in two mass-transferring sdO/B + WD systems_**
+* **_Can we detect direct signs of accretion in two mass-transferring sdO/B + WD systems?_** - Using phase-resolved spectroscopy, we investigated two ultracompact mass-transferring sdO/B + WD binaries to look for accretion signatures. While no obvious features were seen, we reported upper limits on the accretion disk flux ([Deshmukh et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..148D/abstract)).
 
 
 
-* **_Modeling the double detonation candidate system CD-3011223_**
+* **_Will the compact sdO/B + WD binary CD-3011223 explode as a double detonation supernova? We think so_** - We revisited the 70-min sdO/B + WD binary CD-3011223 with the 1D stellar evolution code MESA to assess its fate. We found that the sdO/B will likely overfill its Roche-lobe within its He-burning lifetime, and transfer enough He-rich material to the WD to potentially trigger a thermonuclear explosion ([Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.2072D/abstract)).
 
 
 
-Wide hot subdwarf + main sequence binaries
-------
-
-
-* **_Introducing interferometry to wide sdO/B binaries - a step toward 3D orbits_**
+* **_Introducing interferometry to long-period sdO/B binaries - a step toward 3D orbits_** - Long period ($$P_{\rm orb} \gtrsim 500\,$$d) sdO/B + main-sequence (typically A-type or later) binaries are important benchmarks for mass transfer physics as they result from stable mass transfer. We started a pilot VLTI campaign to measure 3D orbits, and subsequently dynamical masses, for six such binaries ([Deshmukh et al. 2026c](https://arxiv.org/abs/2607.25741)).
