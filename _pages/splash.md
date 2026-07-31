@@ -11,12 +11,29 @@ header:
 ---
 
 
+---
+permalink: /
+layout: splash
+title: "Kunal Deshmukh"
+excerpt: "Astronomy PhD Candidate, KU Leuven"
+header:
+  overlay_image: Tarantula-HST-ESO-Webb-LL.png
+  overlay_filter: 0.5
+  cta_url: "/home/"
+  cta_label: "<i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>"
+---
 
 <style>
 .page__hero--overlay {
+  position: relative;
   min-height: 100vh;
   display: flex;
   align-items: center;
+  overflow: hidden;
+  transition: transform 0.7s ease-in-out;
+}
+.page__hero--overlay.scroll-out {
+  transform: translateY(-100%);
 }
 .page__hero--overlay .wrapper {
   width: 100%;
@@ -31,7 +48,11 @@ header:
   font-size: 1.3em;
 }
 .page__cta {
-  margin-top: 60px;
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
 }
 .page__cta .btn {
   background: transparent;
@@ -55,3 +76,20 @@ header:
   60% { transform: translateY(5px); }
 }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var ctaLink = document.querySelector('.page__cta a');
+  var hero = document.querySelector('.page__hero--overlay');
+  if (ctaLink && hero) {
+    ctaLink.addEventListener('click', function (e) {
+      e.preventDefault();
+      var target = this.getAttribute('href');
+      hero.classList.add('scroll-out');
+      setTimeout(function () {
+        window.location.href = target;
+      }, 700);
+    });
+  }
+});
+</script>
