@@ -11,17 +11,6 @@ header:
 ---
 
 
----
-permalink: /
-layout: splash
-title: "Kunal Deshmukh"
-excerpt: "Astronomy PhD Candidate, KU Leuven"
-header:
-  overlay_image: Tarantula-HST-ESO-Webb-LL.png
-  overlay_filter: 0.5
-  cta_url: "/home/"
-  cta_label: "<i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>"
----
 
 <style>
 .page__hero--overlay {
