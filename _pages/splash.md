@@ -7,7 +7,7 @@ header:
   overlay_image: splash-img.png
   overlay_filter: 0.3
   cta_url: "/home/"
-  cta_label: "<i class=\"fa fa-angle-down\" aria-hidden=\"true\"></i>"
+  cta_label: "<i class=\"fa fa-plus\" aria-hidden=\"true\"></i>"
 ---
 
 
@@ -48,7 +48,7 @@ header:
 }
 .page__cta {
   position: absolute;
-  bottom: 1in;
+  bottom: 1.6in;
   left: 50%;
   transform: translateX(-50%);
   margin: 0;
