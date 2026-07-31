@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research themes (under construction)"
+title: "Research themes"
 permalink: /research/
 author_profile: true
 #redirect_from:
@@ -11,7 +11,7 @@ author_profile: true
 {% include base_path %}
 
 
-My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries and related objects through occasional projects. Below is a short summary of my projects. 
+My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries and related objects through occasional projects. Below is a short summary of my main projects. 
 
 
 Massive stars
@@ -26,7 +26,7 @@ Wolf-Rayet stars
 Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initial masses $$M_{ini}\gtrsim 20\,M_\odot$$. They are usually stripped by their own stellar winds or a binary companion, although relative contribution of the two channels is uncertain. While WRs are considered to be immediate progenitors for stellar-mass black holes, they can be challenging to study due to their spectra being dominated by strong and variable emission lines. I bring a fresh perspective to WR science using long-baseline interferometry, addressing the following questions
 
 
-* **_Where are all the wide WR + OB binaries?_** - We conducted a VLTI/GRAVITY survey of 39 Galactic WR stars to look for the "missing" wide binaries, and found ourselves in a long period desert ([Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract)).
+* **_Where are all the wide WR + OB binaries?_** - We conducted a VLTI/GRAVITY survey of 39 Galactic WR stars to look for the "missing" wide binaries, and found ourselves in a long period desert. Beyond a binary search, we also made a few serendipitous discoveries, thanks to the power of spectro-interferometry ([Deshmukh et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.109D/abstract)).
 
 
 
@@ -53,6 +53,9 @@ To answer all these questions, it is important to catch these systems before the
 
 
 * **_What is the census of O + BH binaries in the Tarantula nebula?_** - Coming soon
+
+
+* **_What can Cyg OB3 teach us about the black hole in Cyg X-1?_** - Coming soon
 
 
 
