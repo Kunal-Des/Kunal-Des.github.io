@@ -15,35 +15,11 @@ During my time at IIT Bombay, I co-led the institute astronomy club [Krittika](h
 
 
 <style>
-#page-fade-overlay {
-  position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: #000;
-  z-index: 9999;
-  opacity: 1;
-  transition: opacity 0.6s ease-in-out;
-  pointer-events: none;
+body {
+  animation: fadeInPage 0.6s ease-in-out;
 }
-#page-fade-overlay.hidden {
-  opacity: 0;
+@keyframes fadeInPage {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 </style>
-
-<div id="page-fade-overlay"></div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var overlay = document.getElementById('page-fade-overlay');
-  if (sessionStorage.getItem('splashTransition')) {
-    sessionStorage.removeItem('splashTransition');
-    requestAnimationFrame(function () {
-      setTimeout(function () {
-        overlay.classList.add('hidden');
-      }, 50);
-    });
-  } else {
-    overlay.remove();
-  }
-});
-</script>
