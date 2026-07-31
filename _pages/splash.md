@@ -19,14 +19,14 @@ header:
   display: flex;
   align-items: center;
   overflow: hidden;
-  transition: transform 0.7s ease-in-out;
+  transition: transform 0.6s ease-in-out;
 }
 .page__hero--overlay.scroll-out {
   transform: translateY(-100%);
 }
 .page__hero--overlay .wrapper {
   width: 100%;
-  font-family: "Georgia", serif;
+  font-family: "Arial", sans-serif;
 }
 .page__hero--overlay .page__title {
   font-family: inherit;
@@ -38,7 +38,7 @@ header:
 }
 .page__cta {
   position: absolute;
-  bottom: 50px;
+  bottom: 1in;
   left: 50%;
   transform: translateX(-50%);
   margin: 0;
@@ -64,20 +64,38 @@ header:
   40% { transform: translateY(10px); }
   60% { transform: translateY(5px); }
 }
+#page-fade-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: #000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.6s ease-in-out;
+  z-index: 9999;
+}
+#page-fade-overlay.active {
+  opacity: 1;
+}
 </style>
+
+<div id="page-fade-overlay"></div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   var ctaLink = document.querySelector('.page__cta a');
   var hero = document.querySelector('.page__hero--overlay');
+  var overlay = document.getElementById('page-fade-overlay');
   if (ctaLink && hero) {
     ctaLink.addEventListener('click', function (e) {
       e.preventDefault();
       var target = this.getAttribute('href');
       hero.classList.add('scroll-out');
+      overlay.classList.add('active');
+      sessionStorage.setItem('splashTransition', '1');
       setTimeout(function () {
         window.location.href = target;
-      }, 700);
+      }, 600);
     });
   }
 });
