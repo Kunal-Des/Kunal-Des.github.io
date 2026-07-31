@@ -14,7 +14,7 @@ author_profile: true
 My current research focuses on observations of massive binary stars. I also maintain continued interest in hot subdwarf binaries and related objects through occasional projects. Below is a short summary of my main projects. 
 
 
-Massive stars
+_Massive stars_
 ======
 Stars with initial masses $$M_{\rm ini}\gtrsim 8\,M_\odot$$ are termed as massive stars (aka OB stars). They lead very eventful lives and often die spectacularly, leaving behind neutron stars (NS) or black holes (BH). They strongly influence their surroundings by releasing copious amounts of ionizing radiation and nuclear processed material. We now know that most, if not all, massive stars are born in binary or multiple systems, a majority of which interact during their lifetime. Consequently, massive binary/multiple evolution is considered a leading formation channel for merging stellar-mass black holes detected by LIGO-Virgo-KAGRA.
 
@@ -60,7 +60,7 @@ To answer all these questions, it is important to catch these systems before the
 
 
 
-Hot subdwarf stars
+_Hot subdwarf stars_
 ======
 
 Hot subdwarf stars are stripped remnants of low- to intermediate-mass stars ($$M_{\rm ini}\lesssim 8\,M_\odot$$). While being spectroscopically similar to O/B-type stars, they are several orders of magnitude fainter, leading to their classification as O/B-type subdwarfs or sdO/Bs. It is widely accepted that the sdO/B population results from binary/multiple star interactions, making it useful to study different interaction processes such as stable mass transfer and common envelope evolution. My master thesis work focused on sdO/Bs in compact binaries with white dwarfs (WDs) and their potential as gravitational wave and type Ia supernova progenitors. However, I have now expanded my interest to sdO/Bs in long-period binaries as well as sdO/B progenitor systems.
