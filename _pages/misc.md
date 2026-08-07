@@ -21,9 +21,12 @@ Workshops and visiting programs
 **MESA Summer School**: A week-long workshop that is all about the open-source 1D stellar evolution code [MESA](https://mesastar.org/). The organizers always ensure a good balance between learning the detailed functionalities of MESA and the exciting scientific use-cases in stellar astrophysics. It is conducted annually, with all material maintained for everyone to access [here](https://mesastar.org/summer-schools/).
 
 
+**Radio Astronomy Winter School (India)**: A ten-day workshop conducted by the National Center for Radio Astrophysics (NCRA), meant for undergraduate students. Taking place at the beautiful IUCAA-NCRA campus in Pune, this workshop offers a glimpse into radio astronomy through lectures, experiments, and a visit to the Giant Meterwave Radio Telescope. Highly recommended for motivated undergrads, look out for announcements from IUCAA-NCRA in the second half of the calendar year.
 
 
-For undergrads
+
+
+Advice for undergrads
 ----------
 
 If you are considering pursuing astronomy research at any level, I would point you to an extensive compilation of useful resources put together by Floor Broekgaarden [here](https://floorbroekgaarden.github.io/resources/). In addition, I am always happy to share my own experience navigating life in academia, so feel to reach out by email with any questions.
