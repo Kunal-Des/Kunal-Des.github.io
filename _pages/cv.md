@@ -12,13 +12,13 @@ redirect_from:
 Below is my short CV, a full version will be made available soon.
 
 Education
-======
+-------
 * Ph.D., Astronomy and Astrophysics, KU Leuven, 2027 (expected)
 * M.S., Physics, Texas Tech University, 2023
 * B.Tech., Metallurgical Engineering and Materials Science, IIT Bombay, 2021
 
 Observing experience
-======
+-------
 * Competitive telescope time awarded as Principal Investigator
   * 52 hours -- VLTI (AT and UT; GRAVITY, PIONIER)
   * 36 hours -- VLT (XSHOOTER)
@@ -34,13 +34,13 @@ Observing experience
 
 
 First-author publications
-======
+-------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Selected talks
-======
+-------
 * "_Toward dynamical masses of wide sdO/B + MS binaries with GRAVITY_" at MPIA Heidelberg
 * "_Revealing large-scale wind structures in a Wolf-Rayet star with GRAVITY_" at ESO Garching
 * "_Wolf-Rayet science in the GRAVITY era_" at MPE Garching
@@ -52,7 +52,7 @@ Selected talks
 * "_From hot subwarfs to type Ia supernovae_" at IIT Bombay
   
 Teaching and mentorship
-======
+-------
 * Supervisor for Bachelor and Master projects at KU Leuven (incl. theses)
 * Teaching assistant for Binary Stars course at KU Leuven
 * Teaching assistant for General Physics labs at Texas Tech
@@ -60,7 +60,7 @@ Teaching and mentorship
 
   
 Service and leadership
-======
+-------
 * Referee for _The Astrophysical Journal_ and _Astronomy & Astrophysics_ 
 * Primary organizer of the Leuven Massive Stars journal club 
 * Coordinator of the Massive Stars website and monthly newsletter
