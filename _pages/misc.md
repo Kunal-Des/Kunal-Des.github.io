@@ -21,3 +21,9 @@ Workshops and visiting programs
 **MESA Summer School**: A week-long workshop that is all about the open-source 1D stellar evolution code [MESA](https://mesastar.org/). The organizers always ensure a good balance between learning the detailed functionalities of MESA and the exciting scientific use-cases in stellar astrophysics. It is conducted annually, with all material maintained for everyone to access [here](https://mesastar.org/summer-schools/).
 
 
+
+
+For undergrads
+----------
+
+If you are considering pursuing astronomy research at any level, I would point you to an extensive compilation of useful resources put together by Floor Broekgaarden [here](https://floorbroekgaarden.github.io/resources/). 
