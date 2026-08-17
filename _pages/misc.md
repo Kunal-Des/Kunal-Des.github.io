@@ -33,7 +33,7 @@ Open access data archives
 * [ZTF Data Archive:](https://irsa.ipac.caltech.edu/Missions/ztf.html) Photometric archive of observations taken at the Zwicky Transient Facility, Palomar Observatory.
 * [ASAS-SN Photometry Database:](https://asas-sn.osu.edu/photometry) All-sky photometric data taken as part of the ASAS-SN project.
 * [MAST Archive:](https://archive.stsci.edu/) Centralised database for space telescope data from missions such as TESS, HST, JWST, etc.
-* [VISTA Science Archive:](http://vsa.roe.ac.uk/index.html) Photometry and image database for observations taken with the VISTA telescope in Paranal (Southern hemisphere). Particularly useful for LMC and SMC finder charts when preparing observations.
+* [VISTA Science Archive:](http://vsa.roe.ac.uk/index.html) Photometry and image database for observations taken with the VISTA telescope, Paranal Observatory. Particularly useful for LMC and SMC finder charts when preparing observations.
 
 
 Advice for undergrads
