@@ -28,10 +28,10 @@ Workshops and visiting programs
 Open access data archives
 ----------
 
-* [ESO Raw Data Archive:](https://archive.eso.org/eso/eso_archive_main.html) Raw data from all ESO instruments at the Paranal and La Silla Observatories (Southern hemisphere).
-* [JMMC Optical Interferometry Database:](https://oidb.jmmc.fr/index.html) Centralised database to access reduced data from several interferometric instruments/observatories.
-* [ZTF Data Archive:](https://irsa.ipac.caltech.edu/Missions/ztf.html) Photometric archive of observations taken at the Zwicky Transient Facility, Palomar Observatory (Northern hemisphere).
-* [ASAS-SN Photometry Database:](https://asas-sn.osu.edu/photometry) All-sky photometric data taken as part of the All-Sky Automated Survey for Supernovae project.
+* [ESO Raw Data Archive:](https://archive.eso.org/eso/eso_archive_main.html) Raw data from all ESO instruments at the Paranal and La Silla Observatories.
+* [JMMC Optical Interferometry Database:](https://oidb.jmmc.fr/index.html) Centralised database to access reduced data and observation logs from several interferometric instruments/observatories.
+* [ZTF Data Archive:](https://irsa.ipac.caltech.edu/Missions/ztf.html) Photometric archive of observations taken at the Zwicky Transient Facility, Palomar Observatory.
+* [ASAS-SN Photometry Database:](https://asas-sn.osu.edu/photometry) All-sky photometric data taken as part of the ASAS-SN project.
 * [MAST Archive:](https://archive.stsci.edu/) Centralised database for space telescope data from missions such as TESS, HST, JWST, etc.
 * [VISTA Science Archive:](http://vsa.roe.ac.uk/index.html) Photometry and image database for observations taken with the VISTA telescope in Paranal (Southern hemisphere). Particularly useful for LMC and SMC finder charts when preparing observations.
 
