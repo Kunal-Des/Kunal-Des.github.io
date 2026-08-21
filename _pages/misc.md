@@ -39,4 +39,4 @@ Open access data archives
 Advice for undergrads
 ----------
 
-If you are considering pursuing astronomy research at any level, I would point you to an extensive compilation of useful resources put together by Floor Broekgaarden [here](https://floorbroekgaarden.github.io/resources/). In addition, I am always happy to share my own experience navigating life in academia, so feel to reach out by email with any questions.
+If you are considering pursuing astronomy research at any level, I would point you to an extensive compilation of useful resources put together by Floor Broekgaarden [here](https://floorbroekgaarden.github.io/resources/). In addition, I am always happy to share my own experience navigating life in academia, so feel free to reach out by email with any questions.

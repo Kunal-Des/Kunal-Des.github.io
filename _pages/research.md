@@ -67,7 +67,7 @@ Hot subdwarf stars
 Hot subdwarf stars are stripped remnants of low- to intermediate-mass stars ($$M_{\rm ini}\lesssim 8\,M_\odot$$). While being spectroscopically similar to O/B-type stars, they are several orders of magnitude fainter, leading to their classification as O/B-type subdwarfs or sdO/Bs. It is widely accepted that the sdO/B population results from binary/multiple star interactions, making it useful to study different interaction processes such as stable mass transfer and common envelope evolution. My master thesis work focused on sdO/Bs in compact binaries with white dwarfs (WDs) and their potential as gravitational wave and type Ia supernova progenitors. However, I have now expanded my interest to sdO/Bs in long-period binaries as well as sdO/B progenitor systems.
 
 
-* **_Can we detect direct signs of accretion in two mass-transferring sdO/B + WD systems?_** - Using phase-resolved spectroscopy, we investigated two ultracompact mass-transferring sdO/B + WD binaries to look for accretion signatures. While no obvious features were seen, we reported upper limits on the accretion disk flux ([Deshmukh et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..148D/abstract)).
+* **_Can we detect direct signs of accretion in mass-transferring sdO/B + WD systems?_** - Using phase-resolved spectroscopy, we investigated two ultracompact mass-transferring sdO/B + WD binaries to look for accretion signatures. While no obvious features were seen, we reported upper limits on the accretion disk flux ([Deshmukh et al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..148D/abstract)).
 
 
 
