@@ -23,7 +23,7 @@ Observing experience
   * 52 hours -- VLTI (AT and UT; GRAVITY, PIONIER)
   * 36 hours -- VLT (XSHOOTER)
   * 4 orbits -- HST (COS)
-  * 20 hours -- CHARA (MIRC-X, MYSTIC)
+  * 4 nights -- CHARA (MIRC-X, MYSTIC)
   * 23 ks -- AstroSat (all instruments)
 
 * On-site and remote observations
