@@ -37,7 +37,7 @@ Classical Wolf-Rayet (WR) stars are evolved, stripped cores of stars with initia
 
 
 
-* **_Does WR 6 have a low-mass companion or large-scale wind structures?_** - Pushing the power of VLTI/GRAVITY to its limits, we tackled the long-standing debate around what causes the periodic variability in WR 6, finding new evidence supporting large-scale wind structures (Deshmukh et al. in prep.).
+* **_Does WR 6 have a low-mass companion or large-scale wind structures?_** - Pushing the power of VLTI/GRAVITY to its limits, we tackled the long-standing debate around what causes the periodic variability in WR 6, finding new evidence in favor of corotating-interaction regions as the underlying phenomenon (Deshmukh et al. in prep.).
 
 
 

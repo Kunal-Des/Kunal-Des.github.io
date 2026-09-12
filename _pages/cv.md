@@ -27,7 +27,7 @@ Observing experience
   * 23 ks -- AstroSat (all instruments)
 
 * On-site and remote observations
-  * 50 nights at Mercator Telescope, La Palma, Spain
+  * 49 nights at Mercator Telescope, La Palma, Spain
   * 11 nights at McDonald Observatory, TX, USA
   * 100+ nights at GROWTH India Telescope, Hanle, India (fully remote)
 
